@@ -1,6 +1,6 @@
 body{
     background-color: pink;
-    background-image: url("/assets/sample2.jpg");
+    background-image: url("sample2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
