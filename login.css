@@ -1,0 +1,56 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+VN:wght@100..400&display=swap'); */
+body{
+    background-color: pink;
+    background-image: url("/assets/gif2.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    /* font-family: */
+}
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+form{
+    /* display: block; */
+    width: 200px;
+    /* height: 175px; */
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    padding-bottom: 10px;
+    /* padding-top: ; */
+    font-size: 30px;
+
+    
+} 
+form label{
+    display:block;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: rgb(0, 255, 55);
+    font-size: 20px;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+footer{
+    font-size: 20px;
+    color: orange;
+}
+a{
+    font-size: 20px;
+    color: rgb(255, 166, 0);
+}
+a:hover{
+    color: red;
+}
+footer:hover{
+    color: red;
+}
+h1:hover{
+    color: yellow;
+}
