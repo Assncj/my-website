@@ -1,7 +1,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+VN:wght@100..400&display=swap'); */
 body{
     background-color: pink;
-    background-image: url("/assets/gif2.gif");
+    background-image: url("gif2.gif");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
