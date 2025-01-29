@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+    background-image: url("/assets/sample2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    
+}
+.topnav{
+    font-size: 35px;
+    border: 2px solid red;
+    padding: 20px;
+
+}
+.active{
+    color: blue;
+}
+.body{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+}
+p:hover{
+    color: blue;
+    font-size: 20px;
+}
