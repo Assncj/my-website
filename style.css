@@ -1,0 +1,47 @@
+.topnav{
+    font-size: 35px;
+    border: 2px solid red;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+    background-image: url("/assets/sample2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+
+
+}
+
+p:hover{
+    color: blue;
+    font-size: 20px;
+}
+p:active{
+    color: red;
+}
+a:hover{
+    color: blue;
+    font-size: 20px;
+}
+
+.active{
+    color: blue;
+}
+.body{
+    color: red;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color: red;
+    /* font-size: 20px; */
+}
+h1{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
