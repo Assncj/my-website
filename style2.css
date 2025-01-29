@@ -1,0 +1,38 @@
+.about{
+    color: red;
+}
+body{
+    background-color: pink;
+    background-image: url("/assets/sample2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.topnav{
+    font-size: 35px;
+    border: 2px solid red;
+    padding: 20px;
+}
+a:hover{
+    color: red;
+}
+.active{
+    color: blue;
+}
+.body{
+    color: red;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.flex-wrapper{
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+}
+p:hover{
+    color: blue;
+}
+a{
+    color: blue;
+}
